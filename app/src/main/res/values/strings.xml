@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Wipay</string>
+
+    <!--COMMON TEXT-->
+    <string name="main_start">Empezar</string>
+    <string name="text_characters">Personajes</string>
+    <string name="text_comics">Comics de</string>
+    <string name="text_comic">Comic</string>
+    <string name="text_name_comic_error">Comic Marvel</string>
+    <string name="text_description_comic_error">La descripción de este comic no está disponible.</string>
+    <string name="text_no_data">No aparacen datos disponibles.</string>
+
+</resources>
